@@ -1,0 +1,7 @@
+{
+  "name": "Daydreams",
+  "description": "The LUCID platform enables users to deploy agents as instant APIs. Multimodal chat, persistent memory, always online. Powered by x402.",
+  "logoUrl": "https://github.com/daydreamsai/daydreams/blob/main/docs/public/Daydreams.png",
+  "websiteUrl": "https://www.dreams.fun/cloud", // ideally pointing to somehwere to learn more about the x402 integration
+  "category": "Client-Side Integrations" // Must match one of our categories: - `Client-Side Integrations`, `Services/Endpoints`, `Ecosystem Infrastructure & Tooling`, `Learning & Community Resources`
+}
